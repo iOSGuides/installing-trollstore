@@ -27,8 +27,9 @@ Make sure your iPhone/iPad works with TrollStore and TrollStore 2 permanent IPA 
 | 16.0 beta 4              | 16.6.1       | Not Applicable                            | [Install TrollStore (TrollInstallerX)](https://iexmo.com/updates/trollinstallerx-trollstore/) | [Install TrollStore (TrollInstallerX)](https://iexmo.com/updates/trollinstallerx-trollstore/)| [Install TrollStore (TrollInstallerX)](https://iexmo.com/updates/trollinstallerx-trollstore/) | 
 | 16.7 RC                  | 16.7 RC      | Not Applicable                            | [Install TrollStore (TrollHelper)](https://iexmo.com/trollstore-helper/)          | No Install Method                       |
 | 16.7                     | 16.7.7       | Not Applicable                            | Unsupported                                          | No Install Method                       |
-| 17.0                     | 17.0         | Not Applicable                            | [Install TrollStore (TrollHelper)](https://iexmo.com/trollstore-helper/)          | No Install Method                       |
-| 17.0.1 and later         |              | Not Applicable                            | Unsupported                                          | Unsupported                                        |
+| 17.0 beta 1                    | 17.0 beta 4         | Not Applicable                            | [Install TrollStore (TrollInstallerX)](https://iexmo.com/updates/trollinstallerx-trollstore/)         | [Install TrollStore (TrollRestore)](https://github.com/iOSGuides/installing-trollrestore-trollstore-installer)                       |
+| 17.0 beta 5       | 17.0          | Not Applicable                            | [Install TrollStore (TrollRestore)](https://github.com/iOSGuides/installing-trollrestore-trollstore-installer)                                           | [Install TrollStore (TrollRestore)](https://github.com/iOSGuides/installing-trollrestore-trollstore-installer)                                         |
+| 17.0.1 and later         |              | Not Applicable                            | Unsupported                                           | Unsupported                                         |
 
 ## Best TrollStore Compatible Apps for iOS
 
